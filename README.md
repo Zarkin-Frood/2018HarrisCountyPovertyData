@@ -1,2 +1,2 @@
 # 2018HarrisCountyPovertyData
-API Calls to SAIPE endpoint for povery stats
+API Calls to SAIPE endpoint for poverty stats
